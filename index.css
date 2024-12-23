@@ -1,5 +1,7 @@
 
-
+#content div:nth-of-type(1) {
+            display: none;
+ }
 #header h1 {
     margin-bottom: 10px;
 }
