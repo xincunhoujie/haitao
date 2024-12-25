@@ -13,7 +13,7 @@ body {
   font-size: 16px;
   font-family: sans-serif;
   line-height: 1.25;
-  background: rgba(234, 234, 234, 0.8);
+  background: rgba(234, 234, 234, 0.6);
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
   overflow: auto;
