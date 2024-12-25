@@ -16,6 +16,8 @@ body {
 }
 /*文章导航插件的背景和位置移动*/
 .toc {
-top: 133px;
-  left: 53%;
-  background: rgba(255, 255, 255, 0.8);}
+top: 133px !important;
+  left: 53% !important;
+  background: rgba(255, 255, 255, 0.8) !important;
+box-shadow: 0 !important;
+}
