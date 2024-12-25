@@ -14,3 +14,8 @@ body {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
   overflow: auto;
 }
+/*文章导航插件的背景和位置移动*/
+.toc {
+top: 133px;
+  left: 53%;
+  background: rgba(255, 255, 255, 0.8);}
