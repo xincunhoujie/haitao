@@ -4,7 +4,8 @@
  }
 */
 html {
-            background: url('//xincunhoujie.github.io/tupian/bj.jpg') no-repeat center center fixed;
+            /*background: url('//xincunhoujie.github.io/tupian/bj.jpg') no-repeat center center fixed;*/
+            background: #999;
             background-size: cover;
 }
 body {
