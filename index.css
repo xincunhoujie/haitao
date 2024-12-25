@@ -3,6 +3,10 @@
             display: none;
  }
 */
+html {
+            background: url('https://weiwei.sitesi.tc/SjJg_scm.jpg') no-repeat center center fixed;
+            background-size: cover;
+}
 body {
   min-width: 200px;
   max-width: 885px;
