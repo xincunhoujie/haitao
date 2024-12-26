@@ -5,7 +5,6 @@
 */
 html {
             background: url('https://weiwei.sitesi.tc/bj.png') ;
-            position: relative;
 }
 body {
   min-width: 200px;
@@ -19,10 +18,9 @@ body {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
   overflow: auto;
 }
-body::after {
+#header::after {
     content:url('https://weiwei.sitesi.tc/construction.gif');
     position: absolute;
-             width: 533px;        height: 400px;   
    top: -370px;
   right: -303px;
   }
