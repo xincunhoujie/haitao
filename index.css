@@ -22,7 +22,7 @@ body {
 #header::after {
     content:url('https://weiwei.sitesi.tc/tunian.png');
     position: absolute;
-   top: -148px;
+   top: -139px;
   right: 20px;
   }
 /*重设头像圆角，改圆形为方形*/
