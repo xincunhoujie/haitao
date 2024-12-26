@@ -19,12 +19,14 @@ body {
   overflow: auto;
   position: relative;
 }
+/*增加页顶图片*/
 #header::after {
     content:url('https://weiwei.sitesi.tc/tunian.png');
     position: absolute;
    top: -164px;
   right: 20px;
   }
+/*重设头像圆角，改圆形为方形*/
 .circle {
   border-radius: 10px !important;
 }
