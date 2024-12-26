@@ -31,10 +31,11 @@ top: 179px !important;
 }
 /*内页图片加圆角*/
 #postBody img{border-radius: 8px;}
-
+/*文章导航手机端宽设置为100%*/
 @media (max-width: 1249px) {
   .toc {
     width: 100% !important;
+    background: rgba(255, 255, 255, 0.3) !important;
   }
 }
 @media (max-width: 600px) {
@@ -49,11 +50,8 @@ top: 179px !important;
   right: unset;
   transform: translateX(-50%);
   }
-            /*文章导航手机端宽设置为100%*/
-.toc {
-width: 100% !important;
+            
 
-}
              /*手机端隐藏回顶部*/
  .toc-end {
   display: none;
