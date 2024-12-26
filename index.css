@@ -56,7 +56,7 @@ body {
 }
 #header::after {
   width: 90%;
-  right: unset;
-  margin: 0 auto;
+  right: 50%;
+  transform: translateX( -50%);
   }
 }
