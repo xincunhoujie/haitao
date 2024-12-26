@@ -53,5 +53,8 @@ body {
 }
 #header::after {
   width: 90%;
+    top:unset;
+    right: unset;
+            margin: 0 auto;
   }
 }
