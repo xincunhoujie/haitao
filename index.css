@@ -22,8 +22,8 @@ body {
 #header::after {
     content:url('https://weiwei.sitesi.tc/construction.gif');
     position: absolute;
-   top: -370px;
-  right: -303px;
+   top: 0px;
+  right: 0px;
   }
 /* 首页列表圆角*/
 .border {
