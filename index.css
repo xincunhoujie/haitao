@@ -22,6 +22,7 @@ body {
 body::after {
     content:url('https://weiwei.sitesi.tc/construction.gif');
     position: absolute;
+             width: 533px;        height: 400px;   
    top: -370px;
   right: -303px;
   }
