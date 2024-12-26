@@ -44,9 +44,9 @@ body {
     margin-bottom: 8px;
 }
 @media (max-width: 600px) {
-  body {
+ /* body {
   margin: 180px 20px;
-}
+}*/
   .blogTitle {
     display: block;
   }
