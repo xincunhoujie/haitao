@@ -18,6 +18,11 @@ body {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
   overflow: auto;
 }
+body::after {
+    content:url('https://weiwei.sitesi.tc/construction.gif');
+    position: absolute;
+    right: 50px;
+  }
 /* 首页列表圆角*/
 .border {
   border-radius: 8px;
