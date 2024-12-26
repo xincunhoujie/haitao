@@ -25,6 +25,9 @@ body {
    top: -164px;
   right: 20px;
   }
+.circle {
+  border-radius: unset!important;
+}
 /* 首页列表圆角*/
 .border {
   border-radius: 8px;
