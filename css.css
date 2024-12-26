@@ -13,7 +13,15 @@ body {
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
   overflow: auto;
+            position: relative;
 }
+/*增加页顶图片*/
+#header::after {
+    content:url('https://weiwei.sitesi.tc/tunian.png');
+    position: absolute;
+   top: -139px;
+  right: 20px;
+  }
 /*文章导航插件的背景和位置移动*/
 .toc {
 top: 133px !important;
