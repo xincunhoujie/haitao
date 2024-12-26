@@ -20,10 +20,10 @@ body {
   position: relative;
 }
 #header::after {
-    content:url('https://weiwei.sitesi.tc/construction.gif');
+    content:url('https://weiwei.sitesi.tc/tunian.png');
     position: absolute;
    top: 0px;
-  right: 0px;
+  right: 20px;
   }
 /* 首页列表圆角*/
 .border {
