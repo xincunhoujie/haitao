@@ -47,4 +47,7 @@ body {
   #header h1 a {
   font-size: 22px;
 }
+#header::after {
+  width: 90%;
+  }
 }
