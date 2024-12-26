@@ -44,9 +44,7 @@ body {
     margin-bottom: 8px;
 }
 @media (max-width: 600px) {
-            html {
-            margin: 0px 20px;
-}
+
  /* body {
   margin: 180px 20px;
 }*/
@@ -61,4 +59,8 @@ body {
   right: unset;
   transform: translateX(-50%);
   }
+            /*清除列表的最小宽度*/
+.SideNav {
+  min-width: unset;
+}
 }
