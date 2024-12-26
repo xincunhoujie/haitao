@@ -31,6 +31,12 @@ top: 179px !important;
 }
 /*内页图片加圆角*/
 #postBody img{border-radius: 8px;}
+
+@media (max-width: 1249px) {
+  .toc {
+    width: 100% !important;
+  }
+}
 @media (max-width: 600px) {
 
  body {
