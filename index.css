@@ -9,7 +9,7 @@ html {
 body {
   min-width: 200px;
   max-width: 885px;
-  margin: 30px auto;
+  margin: 180px auto;
   font-size: 16px;
   font-family: sans-serif;
   line-height: 1.25;
@@ -22,7 +22,7 @@ body {
 #header::after {
     content:url('https://weiwei.sitesi.tc/tunian.png');
     position: absolute;
-   top: 0px;
+   top: -164px;
   right: 20px;
   }
 /* 首页列表圆角*/
