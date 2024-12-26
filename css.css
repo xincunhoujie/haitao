@@ -43,5 +43,13 @@ top: 179px !important;
   right: unset;
   transform: translateX(-50%);
   }
+            /*文章导航手机端宽设置为100%*/
+.toc {
+width: 100% !important;
 
+}
+             /*手机端隐藏回顶部*/
+ .toc-end {
+  display: none;
+}
 }
