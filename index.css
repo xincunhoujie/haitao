@@ -29,6 +29,7 @@ body {
 .circle {
   border-radius: 10px !important;
 }
+.avatar:hover{transform: scale(1.15) !important ;border-radius: 50% !important;}
 /* 首页列表圆角*/
 .border {
   border-radius: 8px;
