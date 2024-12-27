@@ -14,7 +14,7 @@ body {
   overflow: auto;
             position: relative;
 }
-body::selection{
+body p::selection{
     color: darkred;
     background-color: gold;
 }
