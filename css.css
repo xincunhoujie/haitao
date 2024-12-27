@@ -38,6 +38,14 @@ top: 179px !important;
 .markdown-body {
   line-height: 1.8;
 }
+.markdown-body {
+  line-height: 1.8;
+}
+.markdown-body p::selection{
+    color: darkred;
+    background-color: gold;
+    border: 1px solid darkred;
+}
 /*文章导航手机端宽设置为100%*/
 @media (max-width: 1249px) {
   .toc {
