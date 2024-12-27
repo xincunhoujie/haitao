@@ -26,6 +26,9 @@ body p::selection{
   right: 20px;
   }
 #footer a{color: var(--fgColor-default, var(--color-fg-default));}
+#footer1 {
+    margin-bottom: 8px;
+}
 /*文章导航插件的背景和位置移动*/
 .toc {
 top: 179px !important;
