@@ -63,6 +63,7 @@ body {
     top: -132px;
     left: 61%;
     transform: translateX(-50%);
+    color: blueviolet;
   }
 #header::after {
   left: 50%;
