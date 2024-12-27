@@ -62,9 +62,8 @@ body {
   }
 /*顶部图片在手机端居中并且水平反转*/
 #header::after {
-  left: 50%;
   right: unset;
-  transform: scaleX(-1),translateX(-50%);
+  transform: scaleX(-1);
   }
    
             /*清除列表的最小宽度*/
