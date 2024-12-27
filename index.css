@@ -57,9 +57,13 @@ body {
     display: block;
   }
             */
-  #header h1 a {
-  font-size: 22px;
-}
+  .blogTitle {
+    display: block;
+    position: absolute;
+    top: -132px;
+    left: 61%;
+    transform: translateX(-50%);
+  }
 #header::after {
   left: 50%;
   right: unset;
