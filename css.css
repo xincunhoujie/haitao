@@ -28,7 +28,7 @@ body p::selection{
 #footer{line-height: 2;}
 #footer a{color: var(--fgColor-default, var(--color-fg-default));}
 #footer1::before{
-  content: "地址:深圳市龙华区观澜街道观澜湖社区1088号     电话：1390000000    Email：heimaojingzhang@188.com";
+  content: "地址:深圳市龙华区观澜街道观澜湖社区1088号\00a0\00a0电话：1390000000\00a0\00a0Email：heimaojingzhang@188.com";
   display: block;
 }
 /*文章导航插件的背景和位置移动*/
