@@ -55,10 +55,8 @@ body {
           
   .blogTitle {
     display: block;
-    position: absolute;
-    top: -132px;
-    left: 61%;
-    transform: translateX(-50%);
+   position: absolute;
+   right: 20px;
     color: blueviolet !important;
   }
 #header::after {
