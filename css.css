@@ -29,12 +29,10 @@ body p::selection{
 #footer1 {
     margin-bottom: 8px;
 }
-#footer {position: relative;}
 #footer1::before{
-    position: absolute;
-    content: "地址:深圳市龙华区观澜街道观澜湖社区1088号  电话：1390000000  Email：heimaojingzhang@188.com";
-    display: block;
-    
+  content: "地址:深圳市龙华区观澜街道观澜湖社区1088号 电话：1390000000 Email：heimaojingzhang@188.com";
+  display: block;
+  margin-bottom: 8px;
 }
 /*文章导航插件的背景和位置移动*/
 .toc {
