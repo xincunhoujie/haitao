@@ -52,7 +52,7 @@ body {
  body {
   margin: 150px 20px;
 }
-          
+   /*手机端定位网站名称到头部图像上边*/       
   .blogTitle {
     display: block;
    position: absolute;
@@ -60,7 +60,7 @@ body {
    left: 20px;
     color: dimgray !important;
   }
-            /*顶部图片在手机端居中并且水平反转*/
+/*顶部图片在手机端居中并且水平反转*/
 #header::after {
   left: 50%;
   right: unset;
