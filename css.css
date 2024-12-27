@@ -77,7 +77,7 @@ top: 179px !important;
 }
              /*手机端隐藏回顶部*/
  .toc-end {
-  display: none;
+  display: none !important;
 }
              #footer1::before {
         content: "地址:深圳市龙华区观澜街道观澜湖社区1088号 \A 电话：1390000000 \A Email：heimaojingzhang@188.com";
