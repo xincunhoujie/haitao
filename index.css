@@ -64,6 +64,7 @@ body {
 #header::after {
   right: unset;
   transform: scaleX(-1);
+  left: -14px;
   }
    
             /*清除列表的最小宽度*/
