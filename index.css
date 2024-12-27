@@ -58,7 +58,7 @@ body {
    position: absolute;
     top: -132px;
    right: 20px;
-    color: blueviolet !important;
+    color: dimgray !important;
   }
 #header::after {
   left: 50%;
