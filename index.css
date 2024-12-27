@@ -52,18 +52,14 @@ body {
  body {
   margin: 150px 20px;
 }
-            /*
-  .blogTitle {
-    display: block;
-  }
-            */
+          
   .blogTitle {
     display: block;
     position: absolute;
     top: -132px;
     left: 61%;
     transform: translateX(-50%);
-    color: blueviolet;
+    color: blueviolet !important;
   }
 #header::after {
   left: 50%;
