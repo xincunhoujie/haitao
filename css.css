@@ -44,7 +44,7 @@ top: 179px !important;
 .markdown-body p::selection{
     color: darkred;
     background-color: gold;
-    border: 1px solid darkred;
+    border: 1px solid #333;
 }
 /*文章导航手机端宽设置为100%*/
 @media (max-width: 1249px) {
