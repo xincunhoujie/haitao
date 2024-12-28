@@ -40,11 +40,12 @@ body {
 #header h1 a {
   font-size: 30px;
   margin-left: 13px;
+            letter-spacing: 3px;
 }
 #footer{line-height: 2;}
 #footer a{color: var(--fgColor-default, var(--color-fg-default));}
 #footer1::before{
-  content: "地址:湖南长沙镖子岭血尸墓 \00a0 \00a0 电话：1390000000 \00a0 \00a0 Email：heimaojingzhang@188.com";
+  content: "地址:湖南长沙镖子岭血尸墓 \00a0 \00a0 电话：1390000000 \00a0 \00a0 Email：menyouping@188.com";
   display: block;
 }
 
