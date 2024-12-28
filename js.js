@@ -1,5 +1,5 @@
 var text = document.createElement("p");//创建容器标签
-        var content = document.createTextNode("黑猫警长");//创建标签内容
+        var content = document.createTextNode("<h1>七星鲁王宫</h1>");//创建标签内容
         var id = document.createAttribute("id");//为容器创建一个属性 id
         id.value = "id-ming";//为创建的id命名
 
