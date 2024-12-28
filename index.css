@@ -54,7 +54,9 @@ body {
     color: blueviolet;
     text-shadow: 0 0 5px  rgba(0, 0, 0, 0.3);
 }
-
+.hengfu {
+    width: 100%;
+}
 /****/
 @media (max-width: 600px) {
 
