@@ -47,6 +47,15 @@ body {
   content: "地址:湖南长沙镖子岭血尸墓 \00a0 \00a0 电话：1390000000 \00a0 \00a0 Email：heimaojingzhang@188.com";
   display: block;
 }
+
+/*自定义html*/
+.xinhtml{
+    font-size: 20px;
+    color: blueviolet;
+    text-shadow: 0 0 5px  rgba(0, 0, 0, 0.3);
+}
+
+/****/
 @media (max-width: 600px) {
 
  body {
