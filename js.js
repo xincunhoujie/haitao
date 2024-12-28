@@ -1,13 +1,2 @@
-var text = document.createElement("p");//创建容器标签
-        var content = document.createTextNode("七星鲁王宫");//创建标签内容
-        var id = document.createAttribute("id");//为容器创建一个属性 id
-        id.value = "id-ming";//为创建的id命名
-
-
-        text.appendChild(content);//将内容放入容器
-        text.setAttributeNode(id);//将属性id放入容器
-
-        //将上面创建的标签放入页面已有的 id="neirong"的div中，并显示出来
-
-        var neirong = document.getElementById("footer");//获取页面标签
-        neirong.appendChild(text);//将内容放入获取的标签 neirong中
+let element = document.getElementById('footer'); // 根据容器的id获取元素
+element.innerHTML += '<div class="xinhtml">这是新添加的HTML代码</div>'; // 在容器中添加新的HTML代码
